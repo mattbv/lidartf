@@ -1,0 +1,4 @@
+mayavi>=4.5.0
+numpy>=1.11.3
+pandas>=0.19.2
+setuptools>=36.0.1
